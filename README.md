@@ -1,24 +1,7 @@
-# README
+# Repositório de exemplo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.com/vascmig/tutorial_rails.svg?branch=master)](https://travis-ci.com/vascmig/tutorial_rails) | Travis CI
 
-Things you may want to cover:
+[![Maintainability](https://api.codeclimate.com/v1/badges/7d542bd94f1bd3c9e9ee/maintainability)](https://codeclimate.com/github/vascmig/tutorial_rails/maintainability) | Codeclimate
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Coverage Status](https://coveralls.io/repos/github/vascmig/tutorial_rails/badge.svg?branch=master)](https://coveralls.io/github/vascmig/tutorial_rails?branch=master) | Coveralls
